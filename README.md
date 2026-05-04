@@ -11,6 +11,11 @@ DocuChat AI is a smart document assistant built with Python, Streamlit, and mode
  🧠 Designed for seamless integration with LLMs
  🔐 Secure environment variable management
 📈 Scalable architecture for future enhancements
+## 🚀 Live Demo
+https://docuchat-ai-xxxx.onrender.com
+
+🔐 API key is securely stored using environment variables (Render)
+
 
 🛠️ Tech Stack
 * Programming Language: Python
